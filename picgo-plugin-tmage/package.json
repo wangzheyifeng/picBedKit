@@ -1,0 +1,12 @@
+{
+  "name": "picgo-plugin-tmage",
+  "version": "1.2.0",
+  "description": "方便配合个人图床使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/wangzheyifeng/picBedKit/tree/master/",
+  "author": "TianMeng",
+  "license": "ISC"
+}
